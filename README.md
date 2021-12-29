@@ -19,7 +19,7 @@ I'm Patricia Ranakoski a Web Developer
 
 <div align="center">
   <a href="https://github.com/PatriciaRanakoski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRanakoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatriciaRanakoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaRanakoski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>

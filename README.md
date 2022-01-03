@@ -9,10 +9,10 @@ I'm Patricia Ranakoski a Web Developer
 
 - 🔭 I’m currently working on a JavaScript Project
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 07493944302
+<!-- - 📫 How to reach me: 07493944302 -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 

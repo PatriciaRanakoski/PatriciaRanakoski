@@ -41,6 +41,8 @@ I'm Patricia and I'm a  Web/Software Developer
 <a href="https://www.linkedin.com/in/patricia-ranakoski-432522160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  <br>
+ 
+ ![image title](https://rushter.com/counter.svg)
   
   ![snake gif](https://github.com/PRanakoski/PRanakoski-/blob/output/github-contribution-grid-snake.gif)
 

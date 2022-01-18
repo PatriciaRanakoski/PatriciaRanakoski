@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Patricia Ranakoski a Web Developer 
+I'm Patricia Ranakoski and I'm a  Web/Software Developer 
 
 
 <!-- **PRanakoski/PRanakoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a JavaScript Project
+- 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with ...

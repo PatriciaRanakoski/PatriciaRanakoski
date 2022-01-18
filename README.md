@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Patricia Ranakoski and I'm a  Web/Software Developer 
+I'm Patricia and I'm a  Web/Software Developer 
 
 
 <!-- **PRanakoski/PRanakoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

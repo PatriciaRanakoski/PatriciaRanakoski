@@ -30,7 +30,7 @@ I'm Patricia and I'm a  Web/Software Developer
   <img align="center" alt="Pat-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pat-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Pat-SQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="Pat-BootStrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <img align="center" alt="Pat-MongoDb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
 <br>
@@ -42,7 +42,7 @@ I'm Patricia and I'm a  Web/Software Developer
 </div>
  <br>
  
- ![image title](https://rushter.com/counter.svg)
+
   
   ![snake gif](https://github.com/PRanakoski/PRanakoski-/blob/output/github-contribution-grid-snake.gif)
 

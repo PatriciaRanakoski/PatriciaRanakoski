@@ -73,6 +73,6 @@ I'm Patricia and I'm a  Web/Software Developer
  
 
   
-  ![snake gif](https://github.com/PRanakoski/PRanakoski-/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/PatriciaRanakoski/PatriciaRanakoski-/blob/output/github-contribution-grid-snake.gif)
 
  

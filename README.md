@@ -7,7 +7,7 @@ I'm Patricia and I'm a  Web/Software Developer
  -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on my a React Project 
 - 👩‍💻 I’m currently learning React...
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with ...
